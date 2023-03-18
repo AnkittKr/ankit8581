@@ -1,4 +1,3 @@
-# Ankit_Kumar
 <p> <img src="https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg" alt="ankit858"</p>
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
