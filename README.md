@@ -1,4 +1,4 @@
-<p> <img src="https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg" alt="ankit858"</p>
+<p> <img align="center" alt="banner" width="950"src="https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg"> </p>
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
