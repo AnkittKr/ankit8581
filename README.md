@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Website**
 
-- 📫 How to reach me **ankitkumaraur99@gmail.com**
+- 📫 How to reach me **codecraft.ankit@gmail.com**
 
 - ⚡ Fun fact **I'm Funny**
 
